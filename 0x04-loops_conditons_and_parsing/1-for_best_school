@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this shows where to run the script from.
+this shows where to run the script from.
 for (( c=1; c<=10; c++))
 do
 echo "Best School"
