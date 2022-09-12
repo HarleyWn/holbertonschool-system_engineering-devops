@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# hi hi hi
+pkill -f beyond
