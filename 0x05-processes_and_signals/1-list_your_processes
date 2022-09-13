@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 # hi
 # shellcheck disable=SC2009
-#h
-#j
 ps -a -x -u -f
