@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#num
+counter=0
+while [$counter -lt 11 ]
+     do
+	if [ $counter=4 ]
+	   echo 'bad luck'
+	elif [ $counter=8 ]
+	     echo 'good luck'
+	else
+		echo 'Best School'
+	fi
+	(( counter+=1 ))
+done
