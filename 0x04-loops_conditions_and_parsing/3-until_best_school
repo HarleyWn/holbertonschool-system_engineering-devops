@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #hello
-counter=10
+counter=0
 	until [ $counter -gt 10 ]
 	do
 	echo 'Best School'
-	(( counter-=1 ))
+	(( counter=counter+1 ))
 done
