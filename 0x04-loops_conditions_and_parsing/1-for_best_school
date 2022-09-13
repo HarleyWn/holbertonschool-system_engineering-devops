@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-this shows where to run the script from.
-for (( c=1; c<=10; c++))
+# displays Holberton School 10 times.
+
+for (( c=1; c<=10; c++ ))
 do
-echo "Best School"
-done
+    echo "Holberton School"
+    done
